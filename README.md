@@ -2,7 +2,7 @@
 
 Single page web app which enables a user to generate a Spotify playlist based on the country selection of their choice.
 
-This app was built in one week using vanilla JavaScript and jQuery and was fully written using Test Driven Development and SOLID principles.
+This app was built in five days using JavaScript and jQuery and has been written using Test Driven Development and SOLID principles.
 
 
 Setup
